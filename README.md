@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/R1B3IR0/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=R1B3IR0" />
 </div>
 
 ###
