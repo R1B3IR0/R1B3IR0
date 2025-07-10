@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R1B3IR0" />
+ <img src="https://hits.sh/github.com/R1B3IR0.svg?style=for-the-badge&label=GitHub+Views&color=555555&logo=github" /></div>
 </div>
 
 ###
